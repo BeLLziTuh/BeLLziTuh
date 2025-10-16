@@ -1,7 +1,7 @@
-# 💫 Sobre:
-🔭 Atualmente estudando javascript<br>👯 Colaborando com qualquer pessoa que eu possa ajudar<br>🤝 A procura de todo conhecimento possivel<br>🌱 Crescendo pessoalmente e profissionalmente graças há um amigo de infância (https://github.com/klinkonskydev) <br>💬 Me chama pra conversarmos<br>⚡ Fato curioso: Sou aprendiz de artista/desenhista clássico
+# 💫 About Me:
+🔭 Currently studying JavaScript<br>👯 Collaborating with anyone I can help<br>🤝 Seeking all possible knowledge<br>🌱 Growing personally and professionally thanks to a childhood friend (https://github.com/klinkonskydev)<br>💬 Feel free to reach out for a chat<br>⚡ Fun fact: I’m an apprentice classical artist/draftsman
 
-# 💻 Conhecimentos:
+# 💻 Knowledge:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
